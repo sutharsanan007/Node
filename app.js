@@ -12,4 +12,3 @@
 // npm init (step by setp, press enter to skip)
 // npm init -y (everything default)
 
-console.log("Hello people")
