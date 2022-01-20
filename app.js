@@ -11,4 +11,3 @@
 // manual approach (create package.json in the root, create properties etc)
 // npm init (step by setp, press enter to skip)
 // npm init -y (everything default)
-

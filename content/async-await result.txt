@@ -1,0 +1,1 @@
+This is async/await result: This is my first text file This is my second text file This is the appended result using native node option
